@@ -9,7 +9,7 @@
 - Downloadadaptive scribble extension [labels]() for training.
 
 ## Experimental Results
-![Evaluation](./Image/Result.jpg)
+![Evaluation](./Image/Result.png)
 
 
 ### Pretrained weights
