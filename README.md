@@ -4,7 +4,7 @@
 ![SLRS](./Image/SLRS.jpg)
 
 ## Dataset
-- Download the training dataset (COD10K-train) at [here](https://drive.google.com/drive/folders/1zW9ngyh2RKmwfApC_PhVpXKomUk71ER-?usp=drive_link).
+- Download the training dataset (COD10K-train) at [here](https://drive.google.com/drive/folders/1xMvmhrIGUnjPpwbX3AE-po1X2YVPPFQA?usp=drive_link).
 - Download the testing dataset (COD10K-test + CAMO-test + CHAMELEON) at [here](https://drive.google.com/drive/folders/1C2TPmsHwI9hyNcbyRVjg8uWl1Bs8YGTs?usp=drive_link).
 - Downloadadaptive scribble extension [labels]() for training.
 
